@@ -1,3 +1,0 @@
-﻿  TRRenderer.cpp
-F:\homework\计算机图形学\Assignment2_Rasterization_ZBuffering\CGAssignment2\src\TRRenderer.cpp(315,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-  CGAssignment2.vcxproj -> F:\homework\计算机图形学\Assignment2_Rasterization_ZBuffering\CGAssignment2\build\Release\CGAssignment2.exe
