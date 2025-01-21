@@ -1,0 +1,6 @@
+.vs/
+*.ipch
+*.pdb
+*.obj
+*.user
+build/
