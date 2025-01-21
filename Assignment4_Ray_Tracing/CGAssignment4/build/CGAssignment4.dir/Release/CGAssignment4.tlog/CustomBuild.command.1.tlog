@@ -1,0 +1,10 @@
+^F:\HOMEWORK\计算机图形学\ASSIGNMENT4_RAY_TRACING\CGASSIGNMENT4\CMAKELISTS.TXT
+setlocal
+D:\cmake\bin\cmake.exe -SF:/homework/计算机图形学/Assignment4_Ray_Tracing/CGAssignment4 -BF:/homework/计算机图形学/Assignment4_Ray_Tracing/CGAssignment4/build --check-stamp-file F:/homework/计算机图形学/Assignment4_Ray_Tracing/CGAssignment4/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

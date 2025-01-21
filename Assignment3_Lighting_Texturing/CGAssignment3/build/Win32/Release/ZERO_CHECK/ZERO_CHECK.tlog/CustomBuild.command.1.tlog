@@ -1,0 +1,10 @@
+^F:\HOMEWORK\计算机图形学\ASSIGNMENT3_LIGHTING_TEXTURING\CGASSIGNMENT3\BUILD\CMAKEFILES\CC8CD8E900E28B6EF519F3EACD1B6313\GENERATE.STAMP.RULE
+setlocal
+D:\cmake\bin\cmake.exe -SF:/homework/计算机图形学/Assignment3_Lighting_Texturing/CGAssignment3 -BF:/homework/计算机图形学/Assignment3_Lighting_Texturing/CGAssignment3/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file F:/homework/计算机图形学/Assignment3_Lighting_Texturing/CGAssignment3/build/CGAssignment3.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

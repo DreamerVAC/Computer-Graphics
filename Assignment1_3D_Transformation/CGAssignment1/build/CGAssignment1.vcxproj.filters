@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="F:\homework\计算机图形学\Assignment1_3D_Transformation\CGAssignment1\src\TRDrawableMesh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\homework\计算机图形学\Assignment1_3D_Transformation\CGAssignment1\src\TRFrameBuffer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\homework\计算机图形学\Assignment1_3D_Transformation\CGAssignment1\src\TRRenderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\homework\计算机图形学\Assignment1_3D_Transformation\CGAssignment1\src\TRShaderPipeline.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\homework\计算机图形学\Assignment1_3D_Transformation\CGAssignment1\src\TRWindowsApp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\homework\计算机图形学\Assignment1_3D_Transformation\CGAssignment1\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="F:\homework\计算机图形学\Assignment1_3D_Transformation\CGAssignment1\src\TRDrawableMesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\homework\计算机图形学\Assignment1_3D_Transformation\CGAssignment1\src\TRFrameBuffer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\homework\计算机图形学\Assignment1_3D_Transformation\CGAssignment1\src\TRRenderer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\homework\计算机图形学\Assignment1_3D_Transformation\CGAssignment1\src\TRShaderPipeline.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\homework\计算机图形学\Assignment1_3D_Transformation\CGAssignment1\src\TRWindowsApp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="F:\homework\计算机图形学\Assignment1_3D_Transformation\CGAssignment1\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{FACFA0BC-6503-3BDD-BB22-5866D96CCC6F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{74C98C6A-1F3A-3C80-BF56-EECB6C83A75E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

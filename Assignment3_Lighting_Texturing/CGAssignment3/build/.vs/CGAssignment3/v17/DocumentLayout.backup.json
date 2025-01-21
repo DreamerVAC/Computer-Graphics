@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\homework\\\u8BA1\u7B97\u673A\u56FE\u5F62\u5B66\\Assignment3_Lighting_Texturing\\CGAssignment3\\build\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{611BF452-DA56-307C-A653-A222DAF0A262}|CGAssignment3.vcxproj|F:\\homework\\\u8BA1\u7B97\u673A\u56FE\u5F62\u5B66\\Assignment3_Lighting_Texturing\\CGAssignment3\\src\\TRShadingPipeline.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611BF452-DA56-307C-A653-A222DAF0A262}|CGAssignment3.vcxproj|F:\\homework\\\u8BA1\u7B97\u673A\u56FE\u5F62\u5B66\\Assignment3_Lighting_Texturing\\CGAssignment3\\src\\TRTexture2D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{611BF452-DA56-307C-A653-A222DAF0A262}|CGAssignment3.vcxproj|F:\\homework\\\u8BA1\u7B97\u673A\u56FE\u5F62\u5B66\\Assignment3_Lighting_Texturing\\CGAssignment3\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "F:\\homework\\\u8BA1\u7B97\u673A\u56FE\u5F62\u5B66\\Assignment3_Lighting_Texturing\\CGAssignment3\\src\\main.cpp",
+              "RelativeDocumentMoniker": "..\\src\\main.cpp",
+              "ToolTip": "F:\\homework\\\u8BA1\u7B97\u673A\u56FE\u5F62\u5B66\\Assignment3_Lighting_Texturing\\CGAssignment3\\src\\main.cpp",
+              "RelativeToolTip": "..\\src\\main.cpp",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAE0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-13T03:21:11.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TRShadingPipeline.cpp",
+              "DocumentMoniker": "F:\\homework\\\u8BA1\u7B97\u673A\u56FE\u5F62\u5B66\\Assignment3_Lighting_Texturing\\CGAssignment3\\src\\TRShadingPipeline.cpp",
+              "RelativeDocumentMoniker": "..\\src\\TRShadingPipeline.cpp",
+              "ToolTip": "F:\\homework\\\u8BA1\u7B97\u673A\u56FE\u5F62\u5B66\\Assignment3_Lighting_Texturing\\CGAssignment3\\src\\TRShadingPipeline.cpp",
+              "RelativeToolTip": "..\\src\\TRShadingPipeline.cpp",
+              "ViewState": "AgIAAJIBAAAAAAAAAAAkwKYBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-13T02:51:43.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TRTexture2D.cpp",
+              "DocumentMoniker": "F:\\homework\\\u8BA1\u7B97\u673A\u56FE\u5F62\u5B66\\Assignment3_Lighting_Texturing\\CGAssignment3\\src\\TRTexture2D.cpp",
+              "RelativeDocumentMoniker": "..\\src\\TRTexture2D.cpp",
+              "ToolTip": "F:\\homework\\\u8BA1\u7B97\u673A\u56FE\u5F62\u5B66\\Assignment3_Lighting_Texturing\\CGAssignment3\\src\\TRTexture2D.cpp",
+              "RelativeToolTip": "..\\src\\TRTexture2D.cpp",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAAALYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-19T12:56:21.959Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
